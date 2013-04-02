@@ -1,0 +1,16 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "2.5.8",
+    "jade": ">= 0.0.1",
+    "everyauth": "~0.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "~0.7.5",
+    "should": "~1.2.2",
+    "mocha": "~1.8.2",
+    "http-proxy": "~0.10.0"
+  }
+}
